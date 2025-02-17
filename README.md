@@ -21,7 +21,7 @@ cd ollama-deep-web-yt-email-researcher
 
 * [Tavily API](https://tavily.com/)
 * [Perplexity API](https://www.perplexity.ai/hub/blog/introducing-the-sonar-pro-api)
-* [YouTuvbe API](https://www.getphyllo.com/post/how-to-get-youtube-api-key)
+* [YouTube API](https://www.getphyllo.com/post/how-to-get-youtube-api-key)
 
 5. Copy the example environment file:
 ```bash
