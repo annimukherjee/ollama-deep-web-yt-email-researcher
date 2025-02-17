@@ -26,25 +26,6 @@ class Configuration:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     # New configuration for YouTube and Email
     youtube_api_key: Optional[str] = 'xxxx'
     email_recipient: Optional[str] = 'xxxx@gmail.com'
@@ -52,20 +33,6 @@ class Configuration:
     smtp_port: Optional[int] = 587
     smtp_username: Optional[str] = 'xxxx@gmail.com'
     smtp_password: Optional[str] = 'xxxx'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
