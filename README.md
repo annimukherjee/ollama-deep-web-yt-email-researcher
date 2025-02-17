@@ -158,11 +158,8 @@ In the `configuration` tab:
 * Set the name of your local LLM to use with Ollama (it will by default be `llama3.2`) 
 * You can set the depth of the research iterations (it will by default be `3`)
 
-<img width="1621" alt="Screenshot 2025-01-24 at 10 08 31 PM" src="https://github.com/user-attachments/assets/7cfd0e04-28fd-4cfa-aee5-9a556d74ab21" />
-
 Give the assistant a topic for research, and you can visualize its process!
 
-<img width="1621" alt="Screenshot 2025-01-24 at 10 08 22 PM" src="https://github.com/user-attachments/assets/4de6bd89-4f3b-424c-a9cb-70ebd3d45c5f" />
 
 ## How it works
 
@@ -178,14 +175,8 @@ Ollama Deep Researcher is inspired by [IterDRAG](https://arxiv.org/html/2410.043
 
 ## Outputs
 
-The output of the graph is a markdown file containing the research summary, with citations to the sources used.
+The output of the graph is a markdown file emailed to your email of choice containing the research summary, with citations to the sources used.
 
 All sources gathered during research are saved to the graph state. 
 
 You can visualize them in the graph state, which is visible in LangGraph Studio:
-
-![Screenshot 2024-12-05 at 4 08 59 PM](https://github.com/user-attachments/assets/e8ac1c0b-9acb-4a75-8c15-4e677e92f6cb)
-
-The final summary is saved to the graph state as well: 
-
-![Screenshot 2024-12-05 at 4 10 11 PM](https://github.com/user-attachments/assets/f6d997d5-9de5-495f-8556-7d3891f6bc96)
