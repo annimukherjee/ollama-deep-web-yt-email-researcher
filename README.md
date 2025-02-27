@@ -180,3 +180,6 @@ The output of the graph is a markdown file emailed to your email of choice conta
 All sources gathered during research are saved to the graph state. 
 
 You can visualize them in the graph state, which is visible in LangGraph Studio:
+
+![grab-Studio - LangSmith--Google Chrome_at_15 34 24_on__27-02-2025__003670](https://github.com/user-attachments/assets/69b08847-689a-4e1e-8805-7d77bae0d1b2)
+
